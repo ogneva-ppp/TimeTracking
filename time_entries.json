@@ -1,0 +1,26 @@
+[
+  {
+    "entry_id": 1,
+    "task_id": 1,
+    "user_id": 1,
+    "start_time": "2026-10-30T12:55:54",
+    "end_time": "2026-10-30T14:35:54",
+    "note": ""
+  },
+  {
+    "entry_id": 2,
+    "task_id": 2,
+    "user_id": 2,
+    "start_time": "2026-10-30T14:35:54",
+    "end_time": "2026-10-30T16:00:54",
+    "note": ""
+  },
+  {
+    "entry_id": 3,
+    "task_id": 1,
+    "user_id": 1,
+    "start_time": "2026-10-30T15:25:54",
+    "end_time": "2026-10-30T16:00:54",
+    "note": ""
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "period_start": null,
+  "period_end": null,
+  "total_seconds": 13200,
+  "total_time": "03:40:00",
+  "entries_count": 3,
+  "active_timers": 0,
+  "by_task": [
+    {
+      "task_id": 1,
+      "title": "Разработать модуль аутентификации",
+      "status": "In Progress",
+      "priority": "HIGH",
+      "seconds": 8100,
+      "time": "02:15:00"
+    },
+    {
+      "task_id": 2,
+      "title": "Разработать REST API",
+      "status": "In Progress",
+      "priority": "MEDIUM",
+      "seconds": 5100,
+      "time": "01:25:00"
+    }
+  ],
+  "by_user": [
+    {
+      "user_id": 1,
+      "name": "Иван Петров",
+      "seconds": 8100,
+      "time": "02:15:00"
+    },
+    {
+      "user_id": 2,
+      "name": "Мария Сидорова",
+      "seconds": 5100,
+      "time": "01:25:00"
+    }
+  ],
+  "report_generated_at": "2026-10-30T16:00:54"
+}
